@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct donerApp: App {
+struct AstraApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
